@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>AlanTest</artifactId>
+	<artifactId>SprintBoot2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>SprintBoot2</name>
@@ -108,7 +108,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-<finalName>${project.artifactId}</finalName>
 	</build>
 
 	<repositories>
