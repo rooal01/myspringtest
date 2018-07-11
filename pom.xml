@@ -108,7 +108,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-<finalName>alantest</finalName>
+<finalName>${project.artifactId}</finalName>
 	</build>
 
 	<repositories>
